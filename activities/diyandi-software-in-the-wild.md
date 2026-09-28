@@ -1,15 +1,15 @@
 # Software in the Wild: Improving the Diyandi Experience Through Software
 
-> **Name:** [Write your full name]  
-> **Section:** [Write your section]  
-> **Date submitted:** [YYYY-MM-DD]
+> **Name:** Charlson Dale Y. Fabrigar 
+> **Section:** CS3A
+> **Date submitted:** 2026-09-29
 
 ---
 
 ## 1. User group
 
 **Who are you designing for?**  
-[Identify one specific group connected to Diyandi Festival sa Iligan. Examples: local residents, students, visitors, tourists, event attendees, performers, vendors, event organizers, safety personnel, senior citizens, persons with disabilities, parents, or local businesses.]
+Local businesses who have to deliver heavy goods to stores.
 
 **Why might this group need support during Diyandi?**  
 [Briefly explain the group’s situation, goals, or needs.]
@@ -19,7 +19,7 @@
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-[Examples: Find events, receive schedule updates, locate a venue, navigate traffic, identify accessible facilities, promote products, coordinate performers, or report an issue.]
+Deliver consumables such as beverages and ice during Diyandi. Ice is the more logistically difficult consumable to deliver because it is on a time limit. It melts when it's not delivered quickly enough and solutions like coolers have tradeoffs like added weight  
 
 ---
 
@@ -44,8 +44,8 @@
 
 Describe **two specific actions** that users could perform using your proposed system.
 
-1. [Write the first user action here.]
-2. [Write the second user action here.]
+1. Estimated gas and time consumption for a route taken. Takes vehicle and payload as input
+2. For highly congested roads, pick the best of a bad situation and have the vehicle parked somewhere where transporting goods by foot is kept to a minimum
 
 ---
 
@@ -92,7 +92,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 Select **one** option below and complete the applicable details.
 
-- [ ] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
+- [X] **No AI tools used.** I did not use any generative AI tool in preparing this submission.
 
 - [ ] **AI tools used.** I used the following AI tool(s): [Write tool name(s), e.g., ChatGPT, Gemini, Copilot].
 
