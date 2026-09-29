@@ -19,24 +19,26 @@ Local businesses who have to deliver heavy goods to stores.
 ## 2. Situation or need
 
 **What is this group trying to do during Diyandi?**  
-Deliver consumables such as beverages and ice during Diyandi. Ice is the more logistically difficult consumable to deliver because it is on a time limit. It melts when it's not delivered quickly enough and solutions like coolers have tradeoffs like added weight  
+Deliver consumables such as beverages and ice during Diyandi. Ice is the more logistically difficult consumable to deliver because it is on a time limit. It melts when it's not delivered quickly enough and solutions like coolers have tradeoffs like added weight
 
 ---
 
 ## 3. Problem or inconvenience
 
 **What may make this task difficult, confusing, unsafe, slow, or inconvenient?**  
-[Describe one concrete problem. You may use personal experience, general knowledge, public information, or a reasonable assumption. If it is an assumption, state that it is an assumption.]
+Some items perish so quickly that routes have to be planned on how they are delivered. Ice is an example of this because it starts melting the moment it leaves the freezer. As a personal experience, I delivered ice to Mugna during the 2025 Diyandi Festival and the vehicle was parked 500m from mugna and There were 10 bags to deliver and me and my driver can bring 4 bags each, this resulted in 2 trips and a half-melted payload.      
+
 
 ---
 
 ## 4. Proposed digital solution
 
 **What digital tool would you propose?**  
-[Describe a mobile application, website, kiosk, dashboard, notification service, digital map, registration system, or another digital tool.]
+Digital Map and a route fuel/time calculator 
+
 
 **How would it help the intended users?**  
-[Explain how the solution responds to the problem you identified.]
+A digital map would be able to make a visual for an optimized route it decides on. For drivers inexperienced with Iligan, they have more reason to use it. An estimate for how much gas and time is consumed lets businesses make an informed decision on letting customers pick up the order instead of delivering or dynamically pricing delivery fees
 
 ---
 
@@ -114,4 +116,4 @@ Select **one** option below and complete the applicable details.
 
 I confirm that this work is based primarily on my own observation, experience, and reasoning. Any external sources or tools used have been acknowledged above.
 
-**Name:** [Write your full name]
+**Name:** Charlson Dale Yu Fabrigar
