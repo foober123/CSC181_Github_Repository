@@ -12,7 +12,7 @@
 Local businesses who have to deliver heavy goods to stores.
 
 **Why might this group need support during Diyandi?**  
-In a time of rising fuel and energy costs, businesses have incentives to conserve fuel even in idle traffic.  
+In a time of rising fuel and energy costs, businesses have incentives to conserve fuel even in idle traffic. City driving is known to use more gas than straight highway operation because stop-and-go traffic puts more load on a vehicle's engine through constant acceleration. One way businesses can optimize this logistic problem is optimizing what vehicle to use and where the vehicle should go. 
 
 ---
 
@@ -58,12 +58,13 @@ Identify **two qualities** that would make your proposed system useful. You may 
 ### Quality 1: Features such as fuel consumption estimates remain available offline and a rougher traffic routing system remains available through the last time the application retrieved online information
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+During diyandi, LTE is often turned off during parades and other celebratory events for security reasons. Having an offline fallback is useful for warehouses that do not have a router for an internet connection. 
 
-### Quality 2: [Write a quality]
+
+### Quality 2: Minimal UI 
 
 **Why does this matter to users?**  
-[Explain why this quality is important for your selected user group and situation.]
+Drivers have to focus on the road and having a dashboard on congestion is too much information to absorb at a glance. Only show the destination and alert if the route is a compromise where the driver has to go on foot. On the business side, a minimal UI can make it faster to recommend vehicles based on payload. App does not need precision estimated on fuel consumption, decisions made from rough heuristics are enough if the deliveries happen on time and the business isnt spending excessive money on fuel 
 
 ---
 
@@ -71,7 +72,8 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-Through tracking peak days of diyandi such as the days in the 4th week of September, time made in each delivery does not rise heavily relative to the rest of September. Factors such as road congestion may cause the spike if delivery workers go navigate the festival unguided. Reduced numbers of stale deliveries can be a valuable metric as well because the vehicles are more likely to come back on time if the application proves to be effective.  
+Through tracking peak days of diyandi such as the days in the 4th week of September, time made in each delivery does not rise heavily relative to the rest of September. Factors such as road congestion may cause the spike if delivery workers go navigate the festival unguided. Reduced numbers of stale deliveries can be a valuable metric as well because the vehicles are more likely to come back on time if the application proves to be effective. 
+
 ---
 
 ## 8. Screenshot or reference
@@ -86,6 +88,9 @@ You may include **one screenshot** or reference image only if it does not contai
 
 **External sources used, if any:**  
 https://www.statista.com/statistics/326017/weekly-crude-oil-prices/
+https://www.freeway.com/knowledge-center/auto/auto-tips/does-driving-slower-save-gas/
+
+
 ---
 
 ## AI use declaration
