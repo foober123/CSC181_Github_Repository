@@ -2,7 +2,7 @@
 
 > **Name:** Charlson Dale Y. Fabrigar 
 > **Section:** CS3A
-> **Date submitted:** 2026-09-29
+> **Date submitted:** 2026-09-30
 
 ---
 
@@ -88,6 +88,7 @@ You may include **one screenshot** or reference image only if it does not contai
 
 **External sources used, if any:**  
 https://www.statista.com/statistics/326017/weekly-crude-oil-prices/
+
 https://www.freeway.com/knowledge-center/auto/auto-tips/does-driving-slower-save-gas/
 
 
