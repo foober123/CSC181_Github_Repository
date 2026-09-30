@@ -12,7 +12,7 @@
 Local businesses who have to deliver heavy goods to stores.
 
 **Why might this group need support during Diyandi?**  
-[Briefly explain the group’s situation, goals, or needs.]
+In a time of rising fuel and energy costs, businesses have incentives to conserve fuel even in idle traffic.  
 
 ---
 
@@ -55,7 +55,7 @@ Describe **two specific actions** that users could perform using your proposed s
 
 Identify **two qualities** that would make your proposed system useful. You may consider whether it should be easy to use, fast, reliable, safe, private, accessible, multilingual, low-data, clear, or available during high demand.
 
-### Quality 1: [Write a quality]
+### Quality 1: Features such as fuel consumption estimates remain available offline and a rougher traffic routing system remains available through the last time the application retrieved online information
 
 **Why does this matter to users?**  
 [Explain why this quality is important for your selected user group and situation.]
@@ -71,8 +71,7 @@ Identify **two qualities** that would make your proposed system useful. You may 
 
 How could you determine whether your proposed solution actually helped users?
 
-[Examples: Ask users for feedback; observe whether users can complete a task more easily; compare the number of errors or complaints; measure task-completion time; check whether fewer people miss event updates; track whether users can locate venues successfully.]
-
+Through tracking peak days of diyandi such as the days in the 4th week of September, time made in each delivery does not rise heavily relative to the rest of September. Factors such as road congestion may cause the spike if delivery workers go navigate the festival unguided. Reduced numbers of stale deliveries can be a valuable metric as well because the vehicles are more likely to come back on time if the application proves to be effective.  
 ---
 
 ## 8. Screenshot or reference
@@ -86,8 +85,7 @@ You may include **one screenshot** or reference image only if it does not contai
 -->
 
 **External sources used, if any:**  
-[Add links or citations here. If you did not use any external sources, write: None.]
-
+https://www.statista.com/statistics/326017/weekly-crude-oil-prices/
 ---
 
 ## AI use declaration
