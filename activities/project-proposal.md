@@ -195,5 +195,5 @@ We confirm that this document reflects our team's agreed-upon proposal. All memb
 - [x] Contributions, references, and AI use are declared.  
 - [x] All members reviewed the same final document.  
 - [x] Each member saved the file as `activities/project-proposal.md`.  
-- [ ] Each member committed and pushed their copy to their personal repository.  
-- [ ] Each member submitted their own GitHub file link through MOLE.
+- [x] Each member committed and pushed their copy to their personal repository.  
+- [x] Each member submitted their own GitHub file link through MOLE.
