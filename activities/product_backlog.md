@@ -149,7 +149,7 @@ Then: Original Backjob remains in history and then corrective repair is linked t
 
 ### Use-case diagram
 
-![][image1]
+[](backlog-images/usecase-diagram.png)
 
 ### UC-01: Logging a Repair
 
